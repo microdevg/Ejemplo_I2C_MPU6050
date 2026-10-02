@@ -3,6 +3,6 @@
 
 # Ejemplo funcionando
 
-# Master inicia la comunicacion, envia direccion
+# Master inicia la comunicacion, envia direccion 0x68   
 
-![alt text]({477DB11E-C20F-4054-96B6-08CB7129F583}.png)
+![alt text]({384C1499-6FC0-4CC5-8A90-E36D03B37F3C}.png)
